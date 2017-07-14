@@ -1,0 +1,14 @@
+body{
+    margin: 0px 0px 0px 0px;
+    min-height: 100%;
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+}
+.navbar{
+    background-color: black;
+    border-radius: 0px;
+    margin: 0;
+    padding: 0;
+    
+    
+}
